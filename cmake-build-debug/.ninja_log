@@ -1,0 +1,7 @@
+# ninja log v6
+3	441	7553315060006180	CMakeFiles/Taller2_tictactoe.dir/main.cpp.obj	96a566d83860c33
+9	455	7553315060067155	CMakeFiles/Taller2_tictactoe.dir/Tablero.cpp.obj	e57240bb62c3c715
+8	474	7553316780692378	CMakeFiles/Taller2_tictactoe.dir/main.cpp.obj	96a566d83860c33
+13	489	7553316780746371	CMakeFiles/Taller2_tictactoe.dir/Tablero.cpp.obj	e57240bb62c3c715
+17	496	7553316780778011	CMakeFiles/Taller2_tictactoe.dir/IA_Minimax.cpp.obj	4b0e05a08d1f2a3
+496	639	7553316785570942	Taller2_tictactoe.exe	fce0ba502aac7e1c
