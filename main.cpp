@@ -25,7 +25,6 @@ int verificarNumero() {
 }
 
 int main() {
-    system("color 0A");
     Tablero tablero;
     IA_Minimax ia;
     string spacing = "----------------------------------";
