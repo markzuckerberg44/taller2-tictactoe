@@ -7,7 +7,7 @@ void printRules(Tablero table) {
     cout<<"Reglas del juego gato:"<<endl;
     cout<<"1) El juego consta de turnos. El jugador uno siempre sera 'X' y el jugador 2 o la maquina sera 'O'."<<endl;
     cout<<"2) El tablero tendra una dispocicion de filas y columnas, en la que se debera ingresar en orden las posiciones, ejemplo: 1 0"<<endl;
-    cout<<"3) El jugador o la IA que complete primero una fila, columna o diagonal de 3 sera quien gane, en caso de no se complete es un empate"<<endl;
+    cout<<"3) El jugador o la IA que complete primero una fila, columna o diagonal de 3 sera quien gane, en caso de que no se complete es un empate"<<endl;
     cout<<"A continuacion, se mostrara el tablero:"<<endl;
     table.mostrar();
 }
