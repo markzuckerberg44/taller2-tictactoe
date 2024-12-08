@@ -20,7 +20,7 @@ void Tablero::mostrar() const {
             if (j < 2) cout << "|";
         }
         cout << endl;
-        if (i < 2) cout << "  -----\n";
+        if (i < 2) cout << "  -+-+-\n";
     }
 }
 
