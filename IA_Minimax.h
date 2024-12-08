@@ -5,12 +5,15 @@
 #ifndef IA_MINIMAX_H
 #define IA_MINIMAX_H
 
-
+#include "Tablero.h"
+#include <utility>
 
 class IA_Minimax {
-
+public:
+    std::pair<int, int> mejorMovimiento(Tablero& tablero);
+private:
+    int minimax(Tablero& tablero, int profundidad, bool esMaximizador, int alfa, int beta);
 };
 
+#endif
 
-
-#endif //IA_MINIMAX_H
