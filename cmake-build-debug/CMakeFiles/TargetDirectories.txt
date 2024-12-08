@@ -1,0 +1,3 @@
+C:/Users/julih/CLionProjects/Taller2-tictactoe/cmake-build-debug/CMakeFiles/Taller2_tictactoe.dir
+C:/Users/julih/CLionProjects/Taller2-tictactoe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/julih/CLionProjects/Taller2-tictactoe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
